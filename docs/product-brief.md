@@ -1,4 +1,4 @@
-# Produkt-Briefing — Masterkiepoint Premium
+# Produkt-Briefing — MasterKeypoint Premium
 
 _Kurzes Intake, 2026-11-18. Ohne Marktrecherche: Die Antworten stammen vom Betreiber selbst._
 
@@ -15,7 +15,7 @@ anfängt (Kurse, Austausch, Hilfe). Es gibt keinen festgelegten Einstieg.
 **Abrechnung:** Monatliches Abo über Digistore24. Der Zugang bleibt offen, solange
 das Mitglied zahlt. Preis: offen, wird im Digistore24-Schritt geklärt.
 
-**Name:** Masterkiepoint Premium
+**Name:** MasterKeypoint Premium
 
 **Logo, Farben, Webseite:** Laut Betreiber vorhanden, eine Seite dazu liegt bei
 Quentn. Die Adresse fehlt hier noch. Der Design-Schritt kommt darauf zurück.
